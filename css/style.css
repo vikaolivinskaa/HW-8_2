@@ -1,0 +1,31 @@
+body {
+  font-size: 30px;
+  background-color: rgb(94, 223, 97);
+}
+a {
+  text-decoration: none;
+}
+.schedule:hover {
+  background-color: rgb(66, 204, 66);
+  color: aliceblue;
+}
+.schedule:link {
+  color: aqua;
+}
+
+.schedule:visited {
+  color: rgb(169, 8, 110);
+}
+.day-lesson:link {
+  color: aqua;
+}
+.day-lesson:visited {
+  color: rgb(213, 59, 138);
+}
+li {
+  display: block;
+}
+.lesson:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(207, 110, 181);
+}
