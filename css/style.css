@@ -35,10 +35,7 @@ li {
   color: rgb(255, 255, 255);
   background-color: rgb(207, 110, 181);
 }
-.day-title:first-child {
-  color: rgb(30, 175, 57);
-  font-size: 40px;
-}
+
 .lesson-item:nth-child(3) {
   color: blue;
 }
